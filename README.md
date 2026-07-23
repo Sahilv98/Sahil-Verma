@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Verma
 
-<img width="200" height="200" alt="WhatsApp Image 2026-07-24 at 12 16 21 AM" src="https://github.com/user-attachments/assets/c881796d-ab56-448d-8c0d-01fced12cd2d" />
+<img width="150" height="150" alt="WhatsApp Image 2026-07-24 at 12 16 21 AM" src="https://github.com/user-attachments/assets/c881796d-ab56-448d-8c0d-01fced12cd2d" />
 
 **Data Analyst** turning messy datasets into clear, actionable insights — with **Python, SQL, Power BI & Advanced Excel**.
 
