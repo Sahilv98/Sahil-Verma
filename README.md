@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sahil Verma
 
+<img width="500" height="500" alt="WhatsApp Image 2026-07-24 at 12 16 21 AM" src="https://github.com/user-attachments/assets/c881796d-ab56-448d-8c0d-01fced12cd2d" />
+
 **Data Analyst** turning messy datasets into clear, actionable insights — with **Python, SQL, Power BI & Advanced Excel**.
 
 📄 [**Download my Resume**](./Sahil_Verma_Resume.pdf) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sahil-verma-b839b7212) &nbsp;|&nbsp; 📧 sahilv23910@gmail.com &nbsp;|&nbsp; 📱 +91-8448752330
